@@ -1,0 +1,21 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/csmm_test
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  sql:
+    init:
+      mode: always
+      continue-on-error: false
+      schema-locations: classpath:database/init.sql
+
+server:
+  port: 8081
+
+logging:
+  level:
+    org.springframework: INFO
+    com.yourcompany.image: DEBUG
+
