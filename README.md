@@ -22,12 +22,12 @@ jwt
 -- you need to turn on 2 intelij apps jednocześnie rozumiesz 
 i później sobie możesz testować różne takie powodzenia tylko bo moze byc pobugowane 
 
-#### security-service ://localhost:8081/
+#### security-service ://localhost:8080/
 -- register
 -- login
 
 
-#### image-service ://localhost:8080/
+#### image-service ://localhost:8081/
 -- add
 -- delete
 -- get by id
