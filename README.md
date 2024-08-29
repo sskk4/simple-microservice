@@ -3,8 +3,8 @@
              _____|__| _____ ______ |  |   ____  
             /  ___/  |/     \\____ \|  | _/ __ \ 
             \___ \|  |  Y Y  \  |_> >  |_\  ___/ 
-            /____  >__|__|_|  /   __/|____/\___  >
-                 \/         \/|__|             \/ 
+           /____  >__|__|_|  /   __/|____/\___  >
+                \/         \/|__|             \/ 
         .__                                             .__              
   _____ |__| ___________  ____  ______ ______________  _|__| ____  ____  
  /     \|  |/ ___\_  __ \/  _ \/  ___// __ \_  __ \  \/ /  |/ ___\/ __ \ 
@@ -20,14 +20,14 @@ jwt
 
 
 -- you need to turn on 2 intelij apps jednocześnie rozumiesz 
-i później sobie możesz testować różne takie 
+i później sobie możesz testować różne takie powodzenia tylko bo moze byc pobugowane 
 
-#### security-service
+#### security-service ://localhost:8081/
 -- register
 -- login
 
 
-#### image-service
+#### image-service ://localhost:8080/
 -- add
 -- delete
 -- get by id
